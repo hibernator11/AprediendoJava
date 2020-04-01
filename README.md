@@ -1,13 +1,15 @@
 # ijava-binder
 
 
-[![Launch IJava binder][binder-badge-img]](https://mybinder.org/v2/gh/SpencerPark/ijava-binder/master) [![Launch IJava lab binder][binder-lab-badge-img]](https://mybinder.org/v2/gh/SpencerPark/ijava-binder/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/AprediendoJava/master)
 
 A [Binder](https://mybinder.org/) compatible repository to try out the [IJava](https://github.com/SpencerPark/IJava) kernel with just a web browser. Depending on if the docker image is already built, spawning the notebook may take some time and so please be patient with it.
 
 In the future this repository may be populated with more example notebooks but it mainly serves to meet the requirements for using the [Binder](https://mybinder.org/) service to play around with the [IJava](https://github.com/SpencerPark/IJava) kernel.
 
-## Other binders running the IJava kernel
+## Aprendiendo Java
+
+Este proyecto tiene como objetivo facilitar el aprendizaje del lenguaje de programación Java. 
 
 | Notebook Source Repository | Try online |
 |:------------|:-------------|
