@@ -7,7 +7,7 @@ Este proyecto tiene como objetivo facilitar el aprendizaje del lenguaje de progr
 [Primeros pasos con Java](https://nbviewer.jupyter.org/github/hibernator11/AprediendoJava/blob/master/PrimerosPasosConJava.ipynb)
 
 ## Actividad
-Vamos a crear un programa en Java que permita almacenar un conjunto de obras. El sistema debe permitir almacenar el título, el autor y las materias de cada una de ellas. Para ello debes definir una clase, con sus atributos y métodos correspondientes.
+Vamos a crear un programa en Java que permita almacenar una biblioteca de obras. El sistema debe permitir almacenar el título, el autor y las materias de cada una de ellas. Para ello debes definir una clase, con sus atributos y métodos correspondientes.
 
 Una vez tenemos declarada nuestra clase, debes implementar un programa que instancie las obras y que muestre por pantalla cada registro.
 
