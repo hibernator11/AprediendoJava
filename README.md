@@ -1,6 +1,10 @@
-# Aprendiendo Java
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/AprediendoJava/master)
+
+
+[![DOI](https://zenodo.org/badge/252149049.svg)](https://zenodo.org/badge/latestdoi/252149049)
+
+
+# Aprendiendo Java
 
 Este proyecto tiene como objetivo facilitar el aprendizaje del lenguaje de programación Java. Revisa el notebook y a continuación realiza la actividad propuesta. Puedes utilizar el editor que prefieras.
 
